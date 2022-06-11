@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+Here I am in a few bullet points:
+
+* Master's degree in Computer Science w/ Data Analytics specialization at EPFL, Switzerland
+* Interested in
+  * data analysis
+  * machine learning
+  * natural language processing
+  * information systems
+  * information security and privacy
+  * web development
+
 <!--
 **Oceanos1/Oceanos1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
